@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Tharindu ",
+      "lastName": "Jayawardhana",
+      "email": "tharindujayawardhana1@gmail.com",
+      "bDate": "1998-11-16T18:00:00.000Z",
+      "gender": "male",
+      "education": "Under Graduate",
+      "id": 1
+    },
+    {
+      "firstName": "abc ",
+      "lastName": "def",
+      "email": "ghi@gmail.com",
+      "bDate": "2023-05-15T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "id": 3
+    }
+  ]
+}
